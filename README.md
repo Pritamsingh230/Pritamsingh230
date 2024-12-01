@@ -1,4 +1,5 @@
-![logo] (https://github.com/Pritamsingh230/Pritamsingh230/blob/main/Dev.png)
+![logo](https://github.com/Pritamsingh230/Pritamsingh230/blob/main/Dev.png)
+
 <h1 align="center">Hi 👋, I'm 𝙿ṛ༏ʇă𝓂ꇙエϞ𝗴ɦ</h1>
 <h3 align="center">A passionate frontend developer from India with a keen interest in DevOps, bridging the gap between dynamic user interfaces and efficient backend operations.</h3>
 <img align="right" alt="DevOps" width="500" src="https://miro.medium.com/v2/resize:fit:1400/1*reRpiezl3EnhtteqjoGSLw.gif">
