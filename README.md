@@ -8,7 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritamsingh230&label=Profile%20views&color=0e75b6&style=flat" alt="pritamsingh230" /> </p>
 
-- 🌱 I’m currently Working as a **DevOps/Cloud Engineer**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -58,6 +57,7 @@
     <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> 
   </a>
 </p>
+- 🌱 I’m currently Working as a **DevOps/Cloud Engineer**
 
 - 📫 How to reach me **pritamsingh230@gmail.com**
 <h3 align="left">Connect with me:</h3>
