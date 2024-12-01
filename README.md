@@ -6,7 +6,7 @@
 <h3 align="center">A passionate  in DevOps.</h3>
 <img align="right" alt="DevOps" width="500" src="https://miro.medium.com/v2/resize:fit:1400/1*reRpiezl3EnhtteqjoGSLw.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pritamsingh230&label=Profile%20views&color=0e75b6&style=flat" alt="pritamsingh230" /> </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -60,6 +60,7 @@
 - 🌱 I’m currently Working as a **DevOps/Cloud Engineer**
 
 - 📫 How to reach me **pritamsingh230@gmail.com**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pritamsingh230&label=Profile%20views&color=0e75b6&style=flat" alt="pritamsingh230" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/pritam singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pritam singh" height="30" width="40" /></a>
