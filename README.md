@@ -3,21 +3,13 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm 𝙿ṛ༏ʇă𝓂ꇙエϞ𝗴ɦ</h1>
-<h3 align="center">A passionate frontend developer from India with a keen interest in DevOps, bridging the gap between dynamic user interfaces and efficient backend operations.</h3>
+<h3 align="center">A passionate  in DevOps.</h3>
 <img align="right" alt="DevOps" width="500" src="https://miro.medium.com/v2/resize:fit:1400/1*reRpiezl3EnhtteqjoGSLw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritamsingh230&label=Profile%20views&color=0e75b6&style=flat" alt="pritamsingh230" /> </p>
 
-- 🔭 I’m currently working on **blending frontend magic with DevOps expertise to create seamless and efficient digital experiences! 🚀**
-
-- 🌱 I’m currently learning **DevOps/Cloud**
-
-- 💬 Ask me about **DevOps**
-
+- 🌱 I’m currently Working A **DevOps/Cloud Engineering**
 - 📫 How to reach me **pritamsingh230@gmail.com**
-
-- ⚡ Fun fact **A frontend enthusiast from India who loves crafting great user experiences and diving into DevOps to keep things running smoothly! 🚀**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/pritam singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pritam singh" height="30" width="40" /></a>
