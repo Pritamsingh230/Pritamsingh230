@@ -1,4 +1,3 @@
-#![logo](https://github.com/Pritamsingh230/Pritamsingh230/blob/main/Dev.png)
 <p align="center">
   <img src="https://raw.githubusercontent.com/Pritamsingh230/Pritamsingh230/main/Dev.png" alt="Logo" width="600">
 </p>
