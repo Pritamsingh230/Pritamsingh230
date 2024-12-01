@@ -1,4 +1,7 @@
-![logo](https://github.com/Pritamsingh230/Pritamsingh230/blob/main/Dev.png)
+#![logo](https://github.com/Pritamsingh230/Pritamsingh230/blob/main/Dev.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pritamsingh230/Pritamsingh230/main/Dev.png" alt="Logo" width="600">
+</p>
 
 <h1 align="center">Hi 👋, I'm 𝙿ṛ༏ʇă𝓂ꇙエϞ𝗴ɦ</h1>
 <h3 align="center">A passionate frontend developer from India with a keen interest in DevOps, bridging the gap between dynamic user interfaces and efficient backend operations.</h3>
